@@ -1,4 +1,13 @@
-# hello-world
+public class HelloWorld{
+
+     public static void main(String []args){
+         double a, b, answer;
+         a = 0.07;
+         b = 269.99;
+         answer = a * b + b;
+        System.out.println(answer = a * b + b);
+     }
+}# hello-world
 Programming Lab 1-24
 Hi Humans!
 
