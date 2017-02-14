@@ -1,4 +1,5 @@
-public class HelloWorld{
+sh-4.3$ java -Xmx128M -Xms16M HelloWorld                                                                                                                            
+288.8893public class HelloWorld{
 
      public static void main(String []args){
          double a, b, answer;
@@ -8,3 +9,5 @@ public class HelloWorld{
         System.out.println(answer = a * b + b);
      }
 }
+sh-4.3$ java -Xmx128M -Xms16M HelloWorld                                                                                                                            
+288.8893
